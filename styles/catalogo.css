@@ -1,0 +1,37 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgba(215, 215, 215, 0.984);
+}
+
+h1{
+    font-weight: bold;
+    font-size: 15px;
+}
+.container-fluid{
+    text-align: center;
+
+}
+
+#deporte img{
+    width: 100%;
+    transition: transform 0.5s ease;
+    border-radius: 12%;
+}
+
+#deporte img:hover{
+    transform: scale(1.1,1.1);
+    position: relative;
+
+}
+footer{
+    background-color:#fd7e14;;
+    min-height: 100px;
+}
+footer p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+#iconos{
+    display: flex;
+    align-items: center;
+}

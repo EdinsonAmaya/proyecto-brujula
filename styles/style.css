@@ -1,0 +1,37 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgba(215, 215, 215, 0.984);
+}
+.container-fluid{
+    text-align: center;
+
+}
+
+/*carusel*/
+.carousel-inner{
+    max-height: 70rem;
+}
+
+.carousel-item img{
+    max-height: 100vh;
+    object-fit:cover;
+
+}
+footer{
+    background-color:#fd7e14;;
+    min-height: 100px;
+    
+}
+footer p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+#iconos{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    
+}
+#local{
+    background-color: #f7c49a;
+}
