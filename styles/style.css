@@ -46,11 +46,14 @@ footer p {
 }
 
 #local {
-    background-color: black;
+    background-color: rgb(146, 24, 24);
 }
 
 .carousel-inner img {
     width: 100%;
     height: auto;
     max-height: 600px;
+}
+.map-index{
+    border: #fd7e14;
 }
