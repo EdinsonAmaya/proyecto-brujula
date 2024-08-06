@@ -27,7 +27,7 @@ footer p{
     text-align: center;
 }
 #iconos{
-    display: flex;
+    display: block;
     align-items: center;
     padding: 20px;
     
