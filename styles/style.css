@@ -1,5 +1,5 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: cursive;
     background-color: rgba(215, 215, 215, 0.984);
     padding-top: 60px;
 }
@@ -28,7 +28,6 @@ body {
 
 footer {
     background-color: #fd7e14;
-    ;
     min-height: 100px;
 
 }
