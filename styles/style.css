@@ -46,7 +46,7 @@ footer p {
 }
 
 #local {
-    background-color: rgb(146, 24, 24);
+    background-color: #ffd5b1;
 }
 
 .carousel-inner img {
@@ -56,4 +56,8 @@ footer p {
 }
 .map-index{
     border: #fd7e14;
+}
+#mapa{
+    border: 5px solid #fd7e14;
+    border-radius: 10px;
 }
