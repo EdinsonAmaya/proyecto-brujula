@@ -1,6 +1,6 @@
 body {
     font-family: "Coming Soon", cursive;
-    background-color: rgba(215, 215, 215, 0.984);
+    background: #ffd5b1;
     padding-top: 60px;
 }
 
@@ -37,20 +37,14 @@ footer p {
     text-align: center;
 }
 .h{
-    text-align: center;
     color: #fd7e14;
     padding: 5px;
 
 }
 .p{
-    padding: 5px;
     text-align: justify;
     font-size: 18px;
-    padding-left: 30px;
-    padding-right: 30px;
 
-
-    
 }
 
 #iconos {
