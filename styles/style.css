@@ -37,6 +37,22 @@ footer p {
     color: rgb(0, 0, 0);
     text-align: center;
 }
+.h{
+    text-align: center;
+    color: #fd7e14;
+    padding: 5px;
+
+}
+.p{
+    padding: 5px;
+    text-align: justify;
+    font-size: 18px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+
+    
+}
 
 #iconos {
     display: block;
@@ -46,14 +62,11 @@ footer p {
 }
 
 #local {
-    background-color: rgb(146, 24, 24);
+    background-color: #fdd5ab;
 }
 
 .carousel-inner img {
     width: 100%;
     height: auto;
     max-height: 600px;
-}
-.map-index{
-    border: #fd7e14;
 }
