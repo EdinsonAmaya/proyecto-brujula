@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(215, 215, 215, 0.984);
+    padding-top: 60px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.container-fluid {
+    text-align: center;
+
+}
+
+footer {
+    background-color: #fd7e14;
+    min-height: 100px;
+
+}
+
+footer p {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}

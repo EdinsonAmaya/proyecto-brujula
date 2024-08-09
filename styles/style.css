@@ -1,5 +1,5 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Coming Soon", cursive;
     background-color: rgba(215, 215, 215, 0.984);
     padding-top: 60px;
 }
@@ -28,7 +28,6 @@ body {
 
 footer {
     background-color: #fd7e14;
-    ;
     min-height: 100px;
 
 }
@@ -62,11 +61,18 @@ footer p {
 }
 
 #local {
-    background-color: #fdd5ab;
+    background-color: #ffd5b1;
 }
 
 .carousel-inner img {
     width: 100%;
     height: auto;
     max-height: 600px;
+}
+.map-index{
+    border: #fd7e14;
+}
+#mapa{
+    border: 5px solid #fd7e14;
+    border-radius: 10px;
 }
