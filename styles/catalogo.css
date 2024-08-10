@@ -1,6 +1,6 @@
 body{
-    font-family: 'Times New Roman', Times, serif;
-    background-color:rgba(215, 215, 215, 0.984);
+    font-family: "Coming Soon", cursive, serif;
+    background-color:#ffd5b1;
 }
 
 h1{
@@ -36,6 +36,11 @@ footer p{
     align-items: center;
     padding: 10px;
 }
-sub{
+.sub{
     text-decoration: none;
+    color: #fd7e14;
+    
+}
+#titulo{
+    font-size: 3.5em;
 }
