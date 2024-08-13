@@ -1,6 +1,6 @@
 body {
     font-family: "Coming Soon", cursive;
-    background-color: rgba(255, 250, 196, 0.984);
+    background-color:#ffd5b1;
     padding-top: 60px;
 }
 
@@ -35,7 +35,7 @@ footer p {
     margin-top: 20px;
 }
 .info-box {
-    background-color:#f9ac47;
+    background-color:#ff9913;
     padding: 20px;
     border-radius: 10px;
     text-align: center;
@@ -59,4 +59,14 @@ footer p {
 .img-center{
     text-align: center;
     
+}
+.h{
+    color: #fd7e14;
+    padding: 5px;
+
+}
+.p{
+    text-align: justify;
+    font-size: 18px;
+
 }
