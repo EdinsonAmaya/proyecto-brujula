@@ -48,3 +48,8 @@ footer p {
 #titulo{
     color: #fd7e14;
 }
+.container{
+    background-color: #ffff;
+    border: 4px solid #fd7e14;
+    border-radius: 15px;
+}
