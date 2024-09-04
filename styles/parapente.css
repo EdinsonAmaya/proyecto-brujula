@@ -48,9 +48,17 @@ footer p {
 #titulo{
     color: #fd7e14;
 }
-.container{
-    background-color: #ffff;
-    border: 4px solid #fd7e14;
+
+#imagenPrincipal{
+    width: 65%;
+    height: 50vh;
     border-radius: 15px;
 }
-
+.titulo{
+    color: #fd7e14;
+}
+.imagenVuelo{
+    width: 90%;
+    height: 37vh;
+    border-radius: 10px;
+}
