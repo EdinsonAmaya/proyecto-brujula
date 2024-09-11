@@ -1,0 +1,51 @@
+body {
+    font-family: "Coming Soon", cursive;
+    background-color:#ffe7d6;
+    padding-top: 60px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.container-fluid {
+    text-align: center;
+
+}
+
+footer {
+    background-color: #fd7e14;
+    height: 100px;
+
+}
+
+footer p {
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+.img-fluid-2{
+    width: 70% ;
+    height: auto; 
+}
+.img-fluid {
+    width: 50% ;
+    height: auto;
+     /* Ajusta el valor según el espacio que desees */
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+h2{
+    padding: 20px;
+    color: #fd7e14;
+    font-family: "Coming Soon", cursive;
+    font-weight: bold;
+}   
+b{
+    color: #fd7e14;  
+}
