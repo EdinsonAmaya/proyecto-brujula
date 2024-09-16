@@ -47,5 +47,28 @@ h2{
     font-weight: bold;
 }   
 b{
-    color: #fd7e14;  
+    color: #000000;  
+}
+#video{
+    border-radius: 10px;
+}
+#btnAgendar {
+    border-radius: 10px;
+    border: 2px solid #fd7e14;
+    font-size: 1rem;
+    color: #040404;
+    font-weight: bold;
+    background-color: #ffe7d6;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#btnAgendar:hover {
+    background-color: #FFFF00;
+    transform: scale(1.05);
+}
+#btnAgendar:active {
+    background-color: #FFFF00;
+    transform: scale(1);
 }
